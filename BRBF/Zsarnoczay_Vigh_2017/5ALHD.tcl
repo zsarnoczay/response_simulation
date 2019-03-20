@@ -3,7 +3,7 @@
 #                                                        author: Adam Zsarnóczay
 #                                                        created:  2014. 10. 23.
 #
-# Copyright (c) 2014 Adam Zsarnóczay
+# Copyright (c) 2013 Adam Zsarnóczay
 # 
 # Redistribution and use of this file in source and binary forms, with or 
 # without modification, are permitted provided that the following conditions 
